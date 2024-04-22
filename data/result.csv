@@ -1,0 +1,250 @@
+Number,Digimon,Stage,Type
+1,Kuramon,0,Free
+2,Pabumon,0,Free
+3,Punimon,0,Free
+4,Botamon,0,Free
+5,Poyomon,0,Free
+6,Koromon,1,Free
+7,Tanemon,1,Free
+8,Tsunomon,1,Free
+9,Tsumemon,1,Free
+10,Tokomon,1,Free
+11,Nyaromon,1,Free
+12,Pagumon,1,Free
+13,Yokomon,1,Free
+14,Bukamon,1,Free
+15,Motimon,1,Free
+16,Wanyamon,1,Free
+17,Agumon,2,Vaccine
+18,Agumon (Blk),2,Virus
+19,Armadillomon,2,Free
+20,Impmon,2,Virus
+21,Elecmon,2,Data
+22,Otamamon,2,Virus
+23,Gaomon,2,Data
+24,Gazimon,2,Virus
+25,Gabumon,2,Data
+26,Gabumon (Blk),2,Virus
+27,Guilmon,2,Virus
+28,Kudamon,2,Vaccine
+29,Keramon,2,Free
+30,Gotsumon,2,Data
+31,Goblimon,2,Virus
+32,Gomamon,2,Vaccine
+33,Syakomon,2,Virus
+34,Solarmon,2,Vaccine
+35,Terriermon,2,Vaccine
+36,Tentomon,2,Vaccine
+37,ToyAgumon,2,Vaccine
+38,Dorumon,2,Data
+39,Hagurumon,2,Virus
+40,Patamon,2,Data
+41,Hackmon,2,Data
+42,Palmon,2,Data
+43,DemiDevimon,2,Virus
+44,Biyomon,2,Vaccine
+45,Falcomon,2,Vaccine
+46,Veemon,2,Free
+47,Salamon,2,Vaccine
+48,Betamon,2,Virus
+49,Hawkmon,2,Free
+50,Lalamon,2,Data
+51,Lucemon,2,Vaccine
+52,Renamon,2,Data
+53,Lopmon,2,Data
+54,Wormmon,2,Free
+55,IceDevimon,3,Virus
+56,Aquilamon,3,Free
+57,Ankylomon,3,Free
+58,Ikkakumon,3,Vaccine
+59,Wizardmon,3,Data
+60,Woodmon,3,Virus
+61,ExVeemon,3,Free
+62,Angemon,3,Vaccine
+63,Ogremon,3,Virus
+64,Guardromon,3,Virus
+65,GaoGamon,3,Data
+66,Kabuterimon,3,Vaccine
+67,ShellNumemon,3,Virus
+68,Gargomon,3,Vaccine
+69,Garurumon,3,Vaccine
+70,Garurumon (Blk),3,Virus
+71,Kyubimon,3,Data
+72,Growlmon,3,Virus
+73,Kurisarimon,3,Free
+74,Greymon,3,Vaccine
+75,Greymon (Blue),3,Virus
+76,Clockmon,3,Data
+77,Kuwagamon,3,Virus
+78,Gekomon,3,Virus
+79,Geremon,3,Virus
+80,GoldNumemon,3,Virus
+81,Cyclonemon,3,Virus
+82,Sunflowmon,3,Data
+83,Seadramon,3,Data
+84,GeoGreymon,3,Vaccine
+85,Sukamon,3,Virus
+86,Starmon,3,Data
+87,Stingmon,3,Free
+88,Socerimon,3,Vaccine
+89,Tankmon,3,Data
+90,Tyrannomon,3,Data
+91,Gatomon,3,Vaccine
+92,Devimon,3,Virus
+93,Togemon,3,Data
+94,Dorugamon,3,Data
+95,Nanimon,3,Virus
+96,Numemon,3,Virus
+97,Birdramon,3,Vaccine
+98,Bakemon,3,Virus
+99,Veedramon,3,Vaccine
+100,PlatinumSukamon,3,Virus
+101,BlackGatomon,3,Virus
+102,Vegiemon,3,Virus
+103,Peckmon,3,Vaccine
+104,Meramon,3,Data
+105,Frigimon,3,Vaccine
+106,Leomon,3,Vaccine
+107,Reppamon,3,Vaccine
+108,Waspmon,3,Virus
+109,MegaKabuterimon,4,Vaccine
+110,Antylamon,4,Data
+111,Andromon,4,Vaccine
+112,Meteormon,4,Data
+113,Infermon,4,Free
+114,Myotismon,4,Virus
+115,AeroVeedramon,4,Vaccine
+116,Etemon,4,Virus
+117,Angewomon,4,Vaccine
+118,Okuwamon,4,Virus
+119,Garudamon,4,Vaccine
+120,Gigadramon,4,Virus
+121,CannonBeemon,4,Virus
+122,GrapLeomon,4,Vaccine
+123,Cyberdramon,4,Vaccine
+124,Shakkoumon,4,Free
+125,Cherrymon,4,Virus
+126,Silphymon,4,Free
+127,SuperStarmon,4,Data
+128,SkullGreymon,4,Virus
+129,Zudomon,4,Vaccine
+130,Taomon,4,Data
+131,Chirinmon,4,Vaccine
+132,Digitamamon,4,Data
+133,SkullMeramon,4,Data
+134,ShogunGekomon,4,Virus
+135,DoruGreymon,4,Data
+136,Knightmon,4,Data
+137,Datamon,4,Virus
+138,Paildramon,4,Free
+139,Panjyamon,4,Vaccine
+140,Pumpkinmon,4,Data
+141,Piximon,4,Data
+142,BlackKingNumemon,4,Virus
+143,BlueMeramon,4,Virus
+144,Vademon,4,Virus
+145,Whamon,4,Vaccine
+146,MagnaAngemon,4,Vaccine
+147,MachGaogamon,4,Data
+148,Mamemon,4,Data
+149,MegaSeadramon,4,Data
+150,Megadramon,4,Virus
+151,WarGrowlmon,4,Virus
+152,MetalGreymon,4,Vaccine
+153,MetalGreymon (Blue),4,Virus
+154,MetalTyrannomon,4,Virus
+155,MetalMamemon,4,Data
+156,Monzaemon,4,Vaccine
+157,Crowmon,4,Vaccine
+158,RizeGreymon,4,Vaccine
+159,Lilamon,4,Data
+160,Rapidmon,4,Vaccine
+161,Lillymon,4,Data
+162,Lucemon FM,4,Virus
+163,LadyDevimon,4,Virus
+164,WereGarurumon,4,Vaccine
+165,WereGarurumon (Blk),4,Virus
+166,Wisemon,4,Virus
+167,Alphamon,5,Vaccine
+168,UlforceVeedramon,5,Vaccine
+169,Ebemon,5,Virus
+170,Imperialdramon DM,5,Free
+171,Imperialdramon FM,5,Free
+172,Vikemon,5,Free
+173,VenomMyotismon,5,Virus
+174,WarGreymon,5,Vaccine
+175,Examon,5,Data
+176,Ophanimon,5,Vaccine
+177,Gaiomon,5,Virus
+178,ChaosGallantmon,5,Virus
+179,Gankoomon,5,Data
+180,Kuzuhamon,5,Data
+181,GranKuwagamon,5,Virus
+182,GroundLocomon,5,Data
+183,Craniamon,5,Vaccine
+184,Kerpymon (Good),5,Vaccine
+185,SaberLeomon,5,Data
+186,Sakuyamon,5,Data
+187,Jesmon,5,Data
+188,ShineGreymon,5,Vaccine
+189,Justimon,5,Vaccine
+190,Kentaurosmon,5,Vaccine
+191,Seraphimon,5,Vaccine
+192,MegaGargomon,5,Vaccine
+193,TigerVespamon,5,Virus
+194,Titamon,5,Virus
+195,Dianamon,5,Data
+196,Diaboromon,5,Free
+197,Creepymon,5,Virus
+198,Gallantmon,5,Virus
+199,Dynasmon,5,Data
+200,Leopardmon,5,Data
+201,Leopardmon LM,5,Data
+202,HiAndromon,5,Vaccine
+203,Barbamon,5,Virus
+204,BanchoLeomon,5,Vaccine
+205,Piedmon,5,Virus
+206,Puppetmon,5,Virus
+207,PlatinumNumemon,5,Virus
+208,BlackWarGreymon,5,Virus
+209,PrinceMamemon,5,Data
+210,Plesiomon,5,Data
+211,HerculesKabuterimon,5,Vaccine
+212,Beelzemon,5,Virus
+213,Belphemon SM,5,Virus
+214,Hououmon,5,Vaccine
+215,Magnadramon,5,Vaccine
+216,Boltmon,5,Data
+217,Mastemon,5,Vaccine
+218,MarineAngemon,5,Vaccine
+219,Minervamon,5,Virus
+220,MirageGaogamon,5,Data
+221,Machinedramon,5,Virus
+222,MetalEtemon,5,Virus
+223,MetalGarurumon,5,Data
+224,MetalGarurumon (Blk),5,Virus
+225,MetalSeadramon,5,Data
+226,RustTyranomon,5,Virus
+227,Leviamon,5,Virus
+228,Lilithmon,5,Virus
+229,Ravemon,5,Vaccine
+230,Crusadermon,5,Virus
+231,Rosemon,5,Data
+232,Lotosmon,5,Data
+233,Imperialdramon PM,6,Vaccine
+234,Omnimon,6,Vaccine
+235,Omnimon Zwart,6,Vaccine
+236,Belphemon RM,6,Virus
+237,Lucemon SM,6,Virus
+238,Flamedramon,7,Free
+239,Magnamon,7,Free
+240,Rapidmon (Armor),7,Vaccine
+241,Kerpymon (Blk),5,Virus
+242,Beelzemon BM,5,Virus
+243,Darkdramon,5,Virus
+244,Chaosmon,6,Vaccine
+245,Valkyrimon,5,Free
+246,ShineGreymon BM,5,Vaccine
+247,MirageGaogamon BM,5,Data
+248,Ravemon BM,5,Vaccine
+249,Rosemon BM,5,Data
